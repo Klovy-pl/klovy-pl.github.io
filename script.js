@@ -1,1 +1,0 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/embed-box/2.0.3/embed-box.min.js"></script>
